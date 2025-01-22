@@ -37,23 +37,19 @@ export default function Home() {
           A blog for hunting coders by a hunting coders
         </p>
 
-        <div className="blogs">
-          <h2>Latest Blogs</h2>
-          <div className="blogItem">
+        <div>
+          <h3>Latest Blogs</h3>
+          <div className="blogs">
             <h3>How to Learn Javascript</h3>
             <p>Javascript is the language used to design for the web </p>
           </div>
-        </div>
 
-        <div className="blogs">
-          <div className="blogItem">
+          <div className="blogs">
             <h3>How to Learn Javascript</h3>
             <p>Javascript is the language used to design for the web </p>
           </div>
-        </div>
 
-        <div className="blogs">
-          <div className="blogItem">
+          <div className="blogs">
             <h3>How to Learn Javascript</h3>
             <p>Javascript is the language used to design for the web </p>
           </div>
